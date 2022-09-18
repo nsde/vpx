@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.css": true,
+        "**/.css.map": true,
+        "vpx/style.css": true,
+        "vpx/style.css.map": true
+    },
+    "hide-files.files": [
+        "vpx/style.css",
+        "vpx/style.css.map"
+    ]
+}
